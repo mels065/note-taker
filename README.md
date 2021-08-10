@@ -13,6 +13,11 @@
 
 A full stack note taking application. Can create, read, and delete notes.
 
+![image](https://user-images.githubusercontent.com/6201053/128942986-d58c698d-f748-447e-b54b-9899a75fa423.png)
+
+![image](https://user-images.githubusercontent.com/6201053/128943026-4d7aa816-2a36-4934-8a90-6131006f14dd.png)
+
+
 ## Installation
 
 `git clone https://github.com/mels065/note-taker.git`
