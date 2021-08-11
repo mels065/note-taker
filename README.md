@@ -24,7 +24,7 @@ A full stack note taking application. Can create, read, and delete notes.
 
 ## Usage
 
-https://github.com/mels065/note-taker
+https://murmuring-gorge-47424.herokuapp.com/
 
 ## Contributing
 
