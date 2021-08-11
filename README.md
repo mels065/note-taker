@@ -24,7 +24,7 @@ A full stack note taking application. Can create, read, and delete notes.
 
 ## Usage
 
-`npm start`
+https://github.com/mels065/note-taker
 
 ## Contributing
 
